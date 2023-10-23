@@ -1,0 +1,8 @@
+[13-Oct-2023 07:39:43 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fork9122/public_html/controllers/program-proses.php:37) in /home/fork9122/public_html/controllers/program-proses.php on line 44
+[17-Oct-2023 08:25:49 Asia/Jakarta] PHP Warning:  mysqli_query(): Empty query in /home/fork9122/public_html/controllers/pengajar-proses.php on line 48
+[17-Oct-2023 08:27:12 Asia/Jakarta] PHP Warning:  mysqli_query(): Empty query in /home/fork9122/public_html/controllers/pengajar-proses.php on line 48
+[17-Oct-2023 08:27:58 Asia/Jakarta] PHP Warning:  mysqli_query(): Empty query in /home/fork9122/public_html/controllers/pengajar-proses.php on line 48
+[17-Oct-2023 08:29:23 Asia/Jakarta] PHP Warning:  mysqli_query(): Empty query in /home/fork9122/public_html/controllers/pengajar-proses.php on line 48
+[17-Oct-2023 08:30:24 Asia/Jakarta] PHP Warning:  mysqli_query(): Empty query in /home/fork9122/public_html/controllers/pengajar-proses.php on line 48
+[17-Oct-2023 08:30:43 Asia/Jakarta] PHP Warning:  mysqli_query(): Empty query in /home/fork9122/public_html/controllers/pengajar-proses.php on line 48
+[17-Oct-2023 08:31:19 Asia/Jakarta] PHP Warning:  mysqli_query(): Empty query in /home/fork9122/public_html/controllers/pengajar-proses.php on line 48
